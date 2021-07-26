@@ -1,4 +1,5 @@
 # Cowin Notifier Bot
+A telegram bot to show you the current status of vaccine slots available in your area.
 
 ## Variables
 `BOT_TOKEN` - Telegram bot token.   
